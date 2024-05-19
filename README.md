@@ -4,7 +4,7 @@ Olá, me chamo Luís sou desenvolvedor e esse é meu github.
 
 ### Sobre mim
 
-Eu sou uma pessoa desenvolvedora full-stack em formção com conhecimento em diversas tecnologias e ferramentas. Tenho paixão por resolver problemas e criar soluções eficientes, utilizando tanto front-end quanto back-end para oferecer uma experiência completa.
+Eu sou uma pessoa desenvolvedora full-stack em formação com conhecimento em diversas tecnologias e ferramentas. Tenho paixão por resolver problemas e criar soluções eficientes, utilizando tanto front-end quanto back-end para oferecer uma experiência completa.
 
 ### Linguagens de Programação e Outras Linguagens
 
