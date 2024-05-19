@@ -16,9 +16,9 @@ Eu sou uma pessoa desenvolvedora full-stack em formção com conhecimento em div
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=&logoColor=white)&nbsp;
 
 ## Formação Acadêmica
-- Engenharia de Computação (em andamento)
+- Bacharelado em Engenharia de Computação (em andamento)
   - Universidade Estadual de Feira de Santana (UEFS)
-- Pedagogia (concluído)
+- Licenciatura em Pedagogia (concluído)
   - Centro Universitário Leonardo da Vinci (UNIASSELVI)
 
 ### Frameworks e Bibliotecas
