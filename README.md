@@ -15,9 +15,13 @@ Eu sou uma pessoa desenvolvedora full-stack em formção com conhecimento em div
 ![C](https://img.shields.io/badge/C-00569c?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=&logoColor=white)&nbsp;
 
+Formação Acadêmica
+-Engenharia de Computação (em andamento)
+  -Universidade Estadual de Feira de Santana (UEFS)
+-Pedagogia (concluído)
+  -Centro Universitário Leonardo da Vinci (UNIASSELVI)
+
 ### Frameworks e Bibliotecas
-
-
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-FFF?style=for-the-badge&logo=Flask&logoColor=blue)&nbsp;
