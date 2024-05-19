@@ -93,7 +93,7 @@ Eu sou uma pessoa desenvolvedora full-stack em formção com conhecimento em div
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ## Contatos:
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://is.gd/iY5sVC)&nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-097cba?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-leite-azevedo/)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duasck/)
 
