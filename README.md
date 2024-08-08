@@ -29,6 +29,7 @@ Eu sou uma pessoa desenvolvedora full-stack em formação, com conhecimento em d
 ![Next.Js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=black)&nbsp;
 ![Chakra](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![React native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ### Bancos de Dados
 
