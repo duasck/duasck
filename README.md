@@ -1,5 +1,5 @@
 
-# Luís Eduardo
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=3000&pause=500&color=F7F7F7&background=0D1117&vCenter=true&width=250&height=40&lines=Lu%C3%ADs+Eduardo)](https://git.io/typing-svg)
 Olá, me chamo Luís sou desenvolvedor e esse é meu github.
 
 ### Sobre mim
